@@ -1,6 +1,9 @@
 {
   "name": "swap.online",
   "version": "1.0.1",
+    "engines": {
+    "node": "10.x"
+  },
   "description": "swap.online",
   "private": true,
   "homepage": "https://staging.swaponline.site",
